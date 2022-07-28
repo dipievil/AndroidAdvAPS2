@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Adv APS2</string>
+    <string name="write_item">Escreva o seu item</string>
+    <string name="add_item">Adicionar item</string>
 </resources>
