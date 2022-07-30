@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "416589399660",
-    "project_id": "senac-android-aps2",
-    "storage_bucket": "senac-android-aps2.appspot.com"
+    "project_number": "348736890178",
+    "project_id": "senac-androidadv-aps2",
+    "storage_bucket": "senac-androidadv-aps2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:416589399660:android:b259523fa15374554bba49",
+        "mobilesdk_app_id": "1:348736890178:android:0a278408a1a4e5a74cd4db",
         "android_client_info": {
           "package_name": "br.dipievil.androidadvaps2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "416589399660-ttvhignhba9seepo77gssagm2b6r4nrl.apps.googleusercontent.com",
+          "client_id": "348736890178-qp96ti9h3qcko4hk69anl6m2tqj3nv2k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB0LPwOhl53yXHyiolcJ9OcZczcuPmYpU4"
+          "current_key": "AIzaSyBjb-wJzR0-Uao188WzF6JBuFVwyKv8PfU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "416589399660-ttvhignhba9seepo77gssagm2b6r4nrl.apps.googleusercontent.com",
+              "client_id": "348736890178-qp96ti9h3qcko4hk69anl6m2tqj3nv2k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
